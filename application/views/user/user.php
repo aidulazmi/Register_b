@@ -1,0 +1,1 @@
+<a href="<?php echo site_url('c_login/logout')?>"><button>Logout</button>
